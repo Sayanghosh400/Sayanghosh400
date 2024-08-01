@@ -46,10 +46,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenE1NzhveW5idWh3anEyaTBjOXZtbGZjb28xYTJjcDg1b3RxYW80NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="mailto:sayanmyself50@gmai.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -58,5 +54,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenE1NzhveW5idWh3anEyaTBjOXZtbGZjb28xYTJjcDg1b3RxYW80NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
 
 ###
