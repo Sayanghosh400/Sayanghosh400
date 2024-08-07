@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+# 💻 Tech Stack:
 
 ###
 
